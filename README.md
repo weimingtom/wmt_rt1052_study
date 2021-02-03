@@ -10,3 +10,6 @@ https://wiki.seeedstudio.com/Arch_Mix/
 https://files.seeedstudio.com/wiki/Arch_Mix/res/bootloader.hex  
 https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json  
 https://github.com/Seeed-Studio/ArduinoCore-imxrt  
+
+## gui-guider  
+https://www.nxp.com/design/software/development-software/gui-guider:GUI-GUIDER  
