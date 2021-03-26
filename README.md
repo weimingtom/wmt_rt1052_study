@@ -13,3 +13,6 @@ https://github.com/Seeed-Studio/ArduinoCore-imxrt
 
 ## gui-guider  
 https://www.nxp.com/design/software/development-software/gui-guider:GUI-GUIDER  
+
+## Embedfire-rt1052, 野火-rt1052开发板项目组  
+https://github.com/Embedfire-rt1052  
